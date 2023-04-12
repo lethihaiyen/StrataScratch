@@ -5,5 +5,5 @@ This repository contains the ID, title, difficulties and solutions of the proble
 
 | \# | ID   | Title 					         | Difficulty 												   | Solution 						| Link                                             | 
 |----|----- |-------------------------|---------------------------------------|----------------------|--------------------------------------------------|
-| 1  | 10087| Find all posts which were reacted to with a heart	| Easy | [MySQL](./Interview/01_Facebook_Advertiser_Status/README.md) | [Link](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=3) |
+| 1  | 10087| Find all posts which were reacted to with a heart	| Easy | [MySQL](HeartReact.MySQL) | [Link](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=3) |
 | 2 | 
