@@ -1,7 +1,7 @@
 # StrataScratch
 A place for me to keep track of my StrataScratch work notes \
 This repository contains the ID, title, difficulties and solutions of the problems I have tackled on [StrataScratch](https://www.stratascratch.com/?via=polteras&gclid=CjwKCAjwitShBhA6EiwAq3RqA1Zum6I71Hqqxd63gWX46hCnPsnvBcI0NR1VRWavVv9vWZckEVPOlRoCe9kQAvD_BwE).
-
+## Completed Questions: `1`
 
 | \# | ID   | Title 					         | Difficulty 												   | Solution 						| Link                                             | 
 |----|----- |-------------------------|---------------------------------------|----------------------|--------------------------------------------------|
